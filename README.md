@@ -2,6 +2,6 @@
 
 #practic
 
-student
+#student
 
 #college
